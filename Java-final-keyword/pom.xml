@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Java-String</artifactId>
+    <artifactId>Java-final-keyword</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
